@@ -1,0 +1,4 @@
+Data Source --> Lambda (Collect by API call + ETL) --> S3
+
+AWS Lambda: Lambda allows you to run code without provisioning or managing servers. You can use Lambda functions to fetch data from the external source (API) and trigger the data transformation process. Lambda supports various programming languages and can be easily integrated with other AWS services.
+
